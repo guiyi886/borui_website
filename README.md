@@ -1,6 +1,6 @@
 # borui_website 公司门户网站搭建
 
-> 此项目由项目[https://github.com/AeroWang/XanaduCompany](https://github.com/AeroWang/XanaduCompany)删减修改得来
+> 此项目由[https://github.com/AeroWang/XanaduCompany](https://github.com/AeroWang/XanaduCompany)删减修改得来
 >
 > 此网站已上线[http://zjborui.com/](http://zjborui.com)
 >
