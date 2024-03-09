@@ -2,6 +2,8 @@
 
 > 此项目由项目[https://github.com/AeroWang/XanaduCompany](https://github.com/AeroWang/XanaduCompany)删减修改得来
 >
+> 此网站已上线[http://zjborui.com/](http://zjborui.com)
+>
 > 以下为原项目README.md
 
 ## 一、采用技术方案
