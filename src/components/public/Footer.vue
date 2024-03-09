@@ -10,8 +10,8 @@
                   </div>
                 </div>-->
         <h2><b>湛江市博瑞机械设备有限公司</b></h2>
-        <br>
         <h2>Copyright (c) 2021 AeroWang</h2>
+        <h2>运维:guiyi_ac 1677852098@qq.com</h2>
         <h2>粤ICP备2024193819号-1</h2>
         <h2>X公网安备 xxxxxxxxxxxxxx号</h2>
       </div>
@@ -51,7 +51,7 @@
   </div>
 </template>
 <script lang="ts" setup>
-import {onMounted, ref} from 'vue'
+import { onMounted, ref } from 'vue'
 
 type ConcatItem = {
   name: string;
@@ -147,7 +147,7 @@ h2 {
   h2 {
     font-size: 28px;
     line-height: 22px;
-    margin: 4px 0;
+    margin: 5px 0;
     color: #7b7e81;
   }
 
