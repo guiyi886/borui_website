@@ -12,8 +12,14 @@
         <h2><b>湛江市博瑞机械设备有限公司</b></h2>
         <h2>Copyright (c) 2021 AeroWang</h2>
         <h2>运维:guiyi_ac 1677852098@qq.com</h2>
-        <h2>粤ICP备2024193819号-1</h2>
-        <h2>X公网安备 xxxxxxxxxxxxxx号</h2>
+        <br>
+        <!--<h2>粤ICP备2024193819号-1</h2>-->
+        <a class="img_beian" href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024193819号-1</a>
+        <br>
+        <!--<h2>X公网安备 xxxxxxxxxxxxxx号</h2>-->
+        <img class="img_beian" src="../../assets/img/beian.png" alt="备案图标">
+        <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44080302000223" rel="noreferrer" target="_blank">
+          粤公网安备44080302000223</a>
       </div>
       <!--      <div class="about_us footer-content-column">
               <h2>关于我们</h2>
@@ -163,6 +169,10 @@ h2 {
       font-weight: bold;
     }
 
+    a {
+      color: #7B7E8E;
+    }
+
     .about_list,
     .contact_list {
       text-align: center;
@@ -293,5 +303,9 @@ h2 {
   }
 
   //margin-left: 30px;
+}
+
+.img_beian {
+  width: 4%;
 }
 </style>
