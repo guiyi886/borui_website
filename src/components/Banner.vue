@@ -14,7 +14,7 @@
   </div>
 </template>
 <script lang="ts" setup>
-import {onBeforeMount, ref} from 'vue'
+import { onBeforeMount, ref } from 'vue'
 
 type ImgItem = {
   id: number;
@@ -114,7 +114,12 @@ onBeforeMount(() => {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    filter: brightness(120%);
+    //设置亮度
+    filter: brightness(128%);
+    /*//设置四周虚幻
+    backdrop-filter: blur(100px);
+    //设置模糊度
+    filter: blur(1px);*/
   }
 }
 
